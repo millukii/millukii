@@ -13,7 +13,7 @@
 
 ### Currently Stack of Technologies
 
-- Go, Node js
+- Go, Node js, Java, PHP
 - Docker
 - Kubernetes
 - GCP
