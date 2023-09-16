@@ -20,12 +20,11 @@
 - Gitlab, Gitlab CI
 
 
-### What I want to do this year? 😄
+### What I want to do? 😄
 
 - Build my own CI/CD pipelines from scratch.
 - Practice data structure exercises. 
 - Learn about algorithm complexity
-- Apply mostly of the times TDD.
 - Build my portfolio.
 - Preparate kubernetes developer certification
 - Work in some side project.
